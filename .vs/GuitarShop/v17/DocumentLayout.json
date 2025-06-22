@@ -1,0 +1,302 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\guitar\\guitarshop_ver2_end\\guitarshop\\infrastructure\\profileimagetaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\infrastructure\\profileimagetaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\guitar\\guitarshop_ver2_end\\guitarshop\\infrastructure\\pagelinktaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\infrastructure\\pagelinktaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\guitar\\guitarshop_ver2_end\\guitarshop\\components\\categorymenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\components\\categorymenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\guitar\\guitarshop_ver2_end\\guitarshop\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\guitar\\guitarshop_ver2_end\\guitarshop\\data\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\data\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\guitar\\guitarshop_ver2_end\\guitarshop\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\guitar\\guitarshop_ver2_end\\guitarshop\\models\\viewmodels\\userviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\models\\viewmodels\\userviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\guitar\\guitarshop_ver2_end\\guitarshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\guitar\\guitarshop_ver2_end\\guitarshop\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\guitar\\guitarshop_ver2_end\\guitarshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\guitar\\guitarshop_ver2_end\\guitarshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\guitar\\guitarshop_ver2_end\\guitarshop\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\guitar\\guitarshop_ver2_end\\guitarshop\\migrations\\20250615141359_avatar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\migrations\\20250615141359_avatar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\guitar\\guitarshop_ver2_end\\guitarshop\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\guitar\\guitarshop_ver2_end\\guitarshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\guitar\\guitarshop_ver2_end\\guitarshop\\wwwroot\\lib\\font-awesome\\js\\all.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\wwwroot\\lib\\font-awesome\\js\\all.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\guitar\\guitarshop_ver2_end\\guitarshop\\migrations\\20250509094819_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DE040F-16AD-4D29-ABCC-426628B99BF6}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\migrations\\20250509094819_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PageLinkTagHelper.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Infrastructure\\PageLinkTagHelper.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Infrastructure\\PageLinkTagHelper.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Infrastructure\\PageLinkTagHelper.cs",
+              "RelativeToolTip": "GuitarShop\\Infrastructure\\PageLinkTagHelper.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T11:25:21.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositoryWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Data\\RepositoryWrapper.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Data\\RepositoryWrapper.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Data\\RepositoryWrapper.cs",
+              "RelativeToolTip": "GuitarShop\\Data\\RepositoryWrapper.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T11:17:47.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Data\\SeedData.cs",
+              "RelativeToolTip": "GuitarShop\\Data\\SeedData.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAiwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:51:44.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProfileImageTagHelper.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Infrastructure\\ProfileImageTagHelper.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Infrastructure\\ProfileImageTagHelper.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Infrastructure\\ProfileImageTagHelper.cs",
+              "RelativeToolTip": "GuitarShop\\Infrastructure\\ProfileImageTagHelper.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA+wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:17:21.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "GuitarShop\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "GuitarShop\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T14:08:41.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Program.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Program.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Program.cs",
+              "RelativeToolTip": "GuitarShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:51:24.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryMenuViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Components\\CategoryMenuViewComponent.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Components\\CategoryMenuViewComponent.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Components\\CategoryMenuViewComponent.cs",
+              "RelativeToolTip": "GuitarShop\\Components\\CategoryMenuViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T13:26:20.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GuitarShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GuitarShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T14:19:07.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "GuitarShop\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:45:31.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "GuitarShop\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:46:43.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Models\\ViewModels\\UserViewModels.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Models\\ViewModels\\UserViewModels.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Models\\ViewModels\\UserViewModels.cs",
+              "RelativeToolTip": "GuitarShop\\Models\\ViewModels\\UserViewModels.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:58:06.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Models\\AppUser.cs",
+              "RelativeToolTip": "GuitarShop\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:51:42.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "GuitarShop\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "GuitarShop\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T14:22:59.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250615141359_Avatar.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Migrations\\20250615141359_Avatar.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Migrations\\20250615141359_Avatar.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Migrations\\20250615141359_Avatar.cs",
+              "RelativeToolTip": "GuitarShop\\Migrations\\20250615141359_Avatar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:14:00.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "GuitarShop\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:08:51.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250509094819_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Migrations\\20250509094819_Initial.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Migrations\\20250509094819_Initial.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\Migrations\\20250509094819_Initial.cs",
+              "RelativeToolTip": "GuitarShop\\Migrations\\20250509094819_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T09:48:19.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "all.js",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\wwwroot\\lib\\font-awesome\\js\\all.js",
+              "RelativeDocumentMoniker": "GuitarShop\\wwwroot\\lib\\font-awesome\\js\\all.js",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\Guitar\\GuitarShop_ver2_End\\GuitarShop\\wwwroot\\lib\\font-awesome\\js\\all.js",
+              "RelativeToolTip": "GuitarShop\\wwwroot\\lib\\font-awesome\\js\\all.js",
+              "ViewState": "AgIAABgOAAAAAAAAAADwv4IOAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-09T10:39:07.793Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
