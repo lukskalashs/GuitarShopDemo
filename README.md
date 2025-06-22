@@ -13,21 +13,21 @@
 Here are some visual glimpses of the application's current state:
 
 * **Welcome Page (Logged Out):**
-    ![Welcome Page Logged Out]()
+    ![Welcome Page Logged Out](Images/Screenshot2025-06-2213)
 * **Product List (All Products):**
-    ![Product List All]()
+    ![Product List All](Images/Screenshot2025-06-22132058.png)
 * **About Us Page:**
     ![About Us Page]()
 * **User Registration Page (with Avatar Upload):**
     ![User Registration with Avatar]()
 * **Welcome Page (Logged In - User):**
-    ![Welcome Page Logged In User])
+    ![Welcome Page Logged In User])(Images/Screenshot2025-06-22132151.png)
 * **Product List (Logged In - User):**
-    ![Product List Logged In User]()
+    ![Product List Logged In User](Images/Screenshot2025-06-2232215.png")
 * **Welcome Page (Logged In - Admin):**
-    ![Welcome Page Logged In Admin]()
+    ![Welcome Page Logged In Admin](Images/Screenshot2025-06-2232600.png")
 * **Product List (Logged In - Admin):**
-    ![Product List Logged In Admin]()
+    ![Product List Logged In Admin](Images/Screenshot2025-06-22132617.png")
 
 ## Features & Architectural Design
 
